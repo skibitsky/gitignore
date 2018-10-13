@@ -5,6 +5,9 @@
 contracts/.placeholder
 test/.placeholder
 
+# ZeppelinOS
+zos.local.json
+
 # Keys (mnemonics, private keys)
 *.key
 
