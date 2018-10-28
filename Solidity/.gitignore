@@ -1,9 +1,9 @@
 # Solidity gitignore
 
 # Truffle
-/build
-contracts/.placeholder
-test/.placeholder
+*/build
+*/contracts/.placeholder
+*/test/.placeholder
 
 # ZeppelinOS
 zos.local.json
