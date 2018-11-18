@@ -1,7 +1,7 @@
 # Solidity gitignore
 
 # Truffle
-*/build
+**/[Bb]uild/
 */contracts/.placeholder
 */test/.placeholder
 
