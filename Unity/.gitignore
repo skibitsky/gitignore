@@ -126,3 +126,6 @@ $RECYCLE.BIN/
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+# Vuforia license
+QCAR/somedata16
